@@ -1,0 +1,17 @@
+{
+  "files.exclude": {
+    ".devlife-cache": true
+  },
+  "python.testing.pytestArgs": [
+    "."
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.nosetestsEnabled": false,
+  "python.testing.pytestEnabled": true,
+  "python.testing.pytestPath": "pytest",
+  "python.terminal.executeInFileDir": true,
+  "python.envFile": "${workspaceFolder}/.env",
+  "testing.automaticallyOpenPeekView": "never",
+  "python.defaultInterpreterPath": "/Users/lucas/Documents/Insper DevLife/devlife/.venv/bin/python",
+  "python.pythonPath": "/Users/lucas/Documents/Insper DevLife/devlife/.venv/bin/python"
+}
