@@ -1,4 +1,4 @@
-import funcoes, pygame
+import funcoes, pygame 
 
 def inicializa():
     pygame.init()
